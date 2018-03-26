@@ -1,5 +1,4 @@
 node-walk
 =====
 
-Moved to https://git.daplie.com/Daplie/node-walk
-
+Moved to https://git.coolaj86.com/coolaj86/fs-walk.js
